@@ -72,7 +72,7 @@ function getData(){
     }
 }
 
-// update dat
+// update data
 function UpdateData(){
     $medicineid = textboxValue("medicine_id");
     $medicinename = textboxValue("medicine_name");
